@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjn-creator
+- 👋 Hi, I’m @sreejin cp
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently Developing Frontent websites
 - 💞️ I’m working on a team called stackdevelopment ...
